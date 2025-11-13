@@ -1,6 +1,0 @@
-qiskit>=1.4.5
-qiskit-machine-learning>=0.8.4
-qiskit-aer>=0.17.2
-scikit-learn>=1.6.1
-pandas>=2.0.0
-numpy>=1.24.0
